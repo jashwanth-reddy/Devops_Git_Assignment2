@@ -2,8 +2,11 @@
 <html>
 
 <head>
+<<<<<<< HEAD
+     <title>HTML APPLICATION BRANCH2</title>
+=======
      <title>HTML APPLICATION</title>
-
+>>>>>>> branch2
 	 <link href="css/site.css" rel="stylesheet">
 </head>
 
